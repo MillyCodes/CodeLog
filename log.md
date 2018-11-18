@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 84: Saturday, November 17, 2018 
+
+**Today's Progress**: Thinking in React
+
+**Thoughts**: Went to a mass meditation by The Big Quiet and it was really useful and relaxing, woke up with real intention and motivation outside of coding. Did a ridiculous amount of cleaning, I'd consider it a workout the way I scrubbed my tub.After everything wa clean, I read 'A Book on C' still in the beginning pages but very insightful on programming science. Still felt unsure with React so I started reading this page on the documentation that several have recommended, will continue it tomorrow while planning my application.
+
+**Link(s) to work**: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
 ### Day 83: Friday, November 16, 2018 
 
 **Today's Progress**: Taught @ Code Nation: The Box Model, Elixir and Intern Meeting!
