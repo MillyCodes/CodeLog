@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+!-- ### Day 81: November 14, 2018 
+
+**Today's Progress**: Pair programming and more Elixir
+
+**Thoughts**: I really struggled with my pair programming session, it was with a lead engineer at startup and besides not being in the mood, I became extremely nervous and had a terrible case of stage fright. I turned back and continued looking at the Elixir documents to understand more basic structures. I also made some CSS changes to my CryptoFolio app but I am still struggling with how to understand where my logic goes especially if I only want to do one API call for both the search and the real-time updates.
+
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
+
 ### Day 80: November 13, 2018
 
 **Today's Progress**: Fixed some CSS on my cryptoFolio React App from yesterday, thought about adding more functionality such as searching and adding/deleting cryptos. Installed and starting reading about Elixir, documentation. Started [Elixir School](https://elixirschool.com/en/lessons/basics/collections/)
