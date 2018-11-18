@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
-!-- ### Day 81: November 14, 2018 
+### Day 83: Friday, November 16, 2018 
+
+**Today's Progress**: Taught @ Code Nation: The Box Model, Elixir and Intern Meeting!
+
+**Thoughts**: Continued lesson on the box model, introducing use of divs to provide layout structure to html pages, along with the spacing and border that makes them look nice and neat. After a quick coffee and sandwich headed to midtown to discuss a potential for a winter internship with a cool company, prospects seem very good. Went back to office to plan how to re-structure my cryptofolio app, mostly reading and breaking down components and what goes where, I'm still not clear on understanding so I will keep reading before trying to code.
+
+### Day 81: Wednesday, November 14, 2018 
 
 **Today's Progress**: Pair programming and more Elixir
 
 **Thoughts**: I really struggled with my pair programming session, it was with a lead engineer at startup and besides not being in the mood, I became extremely nervous and had a terrible case of stage fright. I turned back and continued looking at the Elixir documents to understand more basic structures. I also made some CSS changes to my CryptoFolio app but I am still struggling with how to understand where my logic goes especially if I only want to do one API call for both the search and the real-time updates.
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link(s) to work**: [Elixir School: Basics - Enum](https://elixirschool.com/en/lessons/basics/enum/)
 
-### Day 80: November 13, 2018
+### Day 80: Tuesday, November 13, 2018
 
-**Today's Progress**: Fixed some CSS on my cryptoFolio React App from yesterday, thought about adding more functionality such as searching and adding/deleting cryptos. Installed and starting reading about Elixir, documentation. Started [Elixir School](https://elixirschool.com/en/lessons/basics/collections/)
+**Today's Progress**: Fixed some CSS on my cryptoFolio React App from yesterday, thought about adding more functionality such as searching and adding/deleting cryptos. Installed and starting reading about Elixir, documentation. Started [Elixir School: Basics - Collections](https://elixirschool.com/en/lessons/basics/collections/)
 
 **Thoughts:** I know what I should add to my app, I am struggling with where to place my react logic, will be working on that more. Looking into Elixir seems exciting and starting with basic terms and data types today was a good idea.
 
