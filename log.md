@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 86: Monday, November 19, 2018 
+
+**Today's Progress**: Watched CS50 lectures and did problem sets.
+
+**Thoughts**: Caught up with lectures on Data Structures and Memory in CS50 course, also tried setting up some problem sets from the first lecture and since it's in C it was a challenge but the basic principals make sense so I somewhat understand what the code means. Still challenging.
+
+**Link(s) to work**: [CS-50: Data Structures](https://www.youtube.com/watch?v=eZQBx8YJ6Zs&index=7&t=694s&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
+
 ### Day 85: Sunday, November 18, 2018 
 
 **Today's Progress**: Re-did entire crypto app, more React and reading
