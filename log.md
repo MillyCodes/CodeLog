@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 85: Sunday, November 18, 2018 
+
+**Today's Progress**: Re-did entire crypto app, more React and reading
+
+**Thoughts**: Completely compelled to make my little crypto better and so I set out to work on something entirely new with a different API and some different styling just to practice more CSS too! SPent the morning watching and reading tutorials and after this I think I want to build a full stack application that is a clone of Blockfolio App. After laundry and gym I came back to set up iTerm2, oh my zsh and Flux on my machine. A cute set up makes me happy to code!
+
+**Link(s) to work**: [CryptoFolio - Version 2](https://github.com/MillyCodes/CryptoFolio-v2)
+
 ### Day 84: Saturday, November 17, 2018 
 
 **Today's Progress**: Thinking in React
