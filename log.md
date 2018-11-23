@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 87: Tuesday, November 20, 2018 
+
+**Today's Progress**: Watched CS50 lectures and did problem sets.
+
+**Thoughts**: I checked out a pretty cool React tutorial to build an app with the open weather API, I had previously done one with Node and Express so I figured I try this since it didn't have any React. It was easy to follow and it came out pretty nice. It just isn't responsive.
+
+**Link(s) to work**: React Weather App Tutorial](https://www.youtube.com/watch?v=204C9yNeOYI)
+
 ### Day 86: Monday, November 19, 2018 
 
 **Today's Progress**: Watched CS50 lectures and did problem sets.
