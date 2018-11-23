@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 87: Wednesday, November 21, 2018 
+### Day 89: Thursday, November 22, 2018 
+
+**Today's Progress**: Made React App Responsive.
+
+**Thoughts**: It's Thanksgiving so I didn't do much but review a clean up a few things. I ended up just making my weather app a single column since the responsive styles were not effective for some reason. I also read a few articles on React topics. Also fleshed out the ReadMe to add links and screenshot.
+
+**Link(s) to work**: [React Weather App](https://react-weatherapi.netlify.com/)
+
+
+### Day 88: Wednesday, November 21, 2018 
 
 **Today's Progress**: Completed React Weather App
 
-**Thoughts**: I was able to complete the react app pretty quickly and was able to deploy on Netlify right away. I was sharing it and was told it wasn't mobile responsive which is a big no-no so I worked on trying to update the styling to achieve this.
+**Thoughts**: I was able to complete the react app pretty quickly and was able to deploy on Netlify right away. I was sharing it and was told it wasn't mobile responsive which is a big no-no so I worked on trying to update the styling to achieve this and it was a pain to figure it out but I'm going to have to keep trying.
 
 **Link(s) to work**: [React Weather App](https://github.com/MillyCodes/WeatherReact)
 
@@ -12,7 +21,7 @@
 
 **Today's Progress**: React Tutorial
 
-**Thoughts**: I checked out a pretty cool React tutorial to build an app with the open weather API, I had previously done one with Node and Express so I figured I try this since it didn't have any React. It was easy to follow and it came out pretty nice. It just isn't responsive.
+**Thoughts**: I checked out a pretty cool React tutorial to build an app with the open weather API, I had previously done one with Node and Express so I figured I try this since it didn't have any React. It was easy to follow and it came out pretty nice. It just isn't responsive so it needs to be fixed!
 
 **Link(s) to work**: [React Weather App Tutorial](https://www.youtube.com/watch?v=204C9yNeOYI)
 
