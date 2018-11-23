@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 87: Wednesday, November 21, 2018 
+
+**Today's Progress**: Completed React Weather App
+
+**Thoughts**: I was able to complete the react app pretty quickly and was able to deploy on Netlify right away. I was sharing it and was told it wasn't mobile responsive which is a big no-no so I worked on trying to update the styling to achieve this.
+
+**Link(s) to work**: [React Weather App](https://github.com/MillyCodes/WeatherReact)
+
 ### Day 87: Tuesday, November 20, 2018 
 
-**Today's Progress**: Watched CS50 lectures and did problem sets.
+**Today's Progress**: React Tutorial
 
 **Thoughts**: I checked out a pretty cool React tutorial to build an app with the open weather API, I had previously done one with Node and Express so I figured I try this since it didn't have any React. It was easy to follow and it came out pretty nice. It just isn't responsive.
 
-**Link(s) to work**: React Weather App Tutorial](https://www.youtube.com/watch?v=204C9yNeOYI)
+**Link(s) to work**: [React Weather App Tutorial](https://www.youtube.com/watch?v=204C9yNeOYI)
 
 ### Day 86: Monday, November 19, 2018 
 
