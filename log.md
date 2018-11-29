@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 90: Thursday, November 23, 2018 
+
+**Today's Progress**: Made React App More Responsive and Took more CS50
+
+**Thoughts**: Day after Thanksgiving I didn't do much but review more cs50 videos and more on making my app responsive and clean up a few things. I ended up just making my weather app a single column since the responsive styles were not effective for some reason.
+
+**Link(s) to work**: [React Weather App](https://react-weatherapi.netlify.com/)
+
 ### Day 89: Thursday, November 22, 2018 
 
 **Today's Progress**: Made React App Responsive.
