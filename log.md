@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 90: Thursday, November 23, 2018 
+### Nov 24-28: Thanksgiving Break
+
+**Time Off**: From Saturday until Wednesday I was away for the holiday and did not have chances to do any practice but I did get to have two different calls about possible jobs!
+
+### Day 90: Friday, November 23, 2018 
 
 **Today's Progress**: Made React App More Responsive and Took more CS50
 
