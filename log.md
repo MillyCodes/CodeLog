@@ -2,6 +2,14 @@
 
 ### Day 91: Thursday, November 29, 2018 
 
+**Today's Progress**: Javascript & Article writing
+
+**Thoughts**: I spent today teaching flexbox and wireframes in the morning. The afternoon I did some javascript coding on HackerRank and then started writing an article on my experience with technical interviews along with resources.
+
+**Link(s) to work**: [HackerRank](https://www.hackerrank.com)
+
+### Day 91: Thursday, November 29, 2018 
+
 **Today's Progress**: Read documentation for ReadMe.io
 
 **Thoughts**: I plan to do a project with ReadMe documentation so I took today to start reading the documentation to get familiar with it.
