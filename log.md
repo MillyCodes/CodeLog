@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 91: Thursday, November 29, 2018 
+
+**Today's Progress**: Read documentation for ReadMe.io
+
+**Thoughts**: I plan to do a project with ReadMe documentation so I took today to start reading the documentation to get familiar with it.
+
+**Link(s) to work**: [ReadMe.io](www.ReadMe.io)
+
 ### Nov 24-28: Thanksgiving Break
 
 **Time Off**: From Saturday until Wednesday I was away for the holiday and did not have chances to do any practice but I did get to have two different calls about possible jobs!
