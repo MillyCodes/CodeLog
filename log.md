@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 91: Thursday, November 29, 2018 
+### Day 92: Friday, November 30, 2018 
 
 **Today's Progress**: Javascript & Article writing
 
