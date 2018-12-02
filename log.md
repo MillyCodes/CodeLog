@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 93: Sunday, December 2, 2018 
+
+**Today's Progress**: Article writing
+
+**Thoughts**: Worked on more HackerRank problems, also read some more documentation for ReadMe. The afternoon I did some edits on an article on my experience with technical interviews along with resources, should be completed by tomorrow.
+
+**Link(s) to work**: [HackerRank](https://www.hackerrank.com)
+
 ### Day 92: Friday, November 30, 2018 
 
 **Today's Progress**: Javascript & Article writing
@@ -18,7 +26,7 @@
 
 ### Nov 24-28: Thanksgiving Break
 
-**Time Off**: From Saturday until Wednesday I was away for the holiday and did not have chances to do any practice but I did get to have two different calls about possible jobs!
+**Time Off**: From Saturday until Wednesday I was away for the holiday and did not have chance to do any practice but I did get to have two different calls about possible jobs!
 
 ### Day 90: Friday, November 23, 2018 
 
