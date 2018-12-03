@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 94: Monday, December 3, 2018 
+
+**Today's Progress**: Elixir!
+
+**Thoughts**: Worked on more HackerRank problems, also read some more documentation for Elixir. I caught up on Elixir article today and found Exercism, an online platform designed to help you improve your coding skills through practice and mentorship. I installed the CLI and I think I'll enjoy working through the problem sets.
+
+**Link(s) to work**: [Exercism.io](https://exercism.io)
+
 ### Day 93: Sunday, December 2, 2018 
 
 **Today's Progress**: Article writing
