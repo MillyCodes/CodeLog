@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 96: Wednesday, December 5, 2018 
+
+**Today's Progress**: Created API with Rails!
+
+**Thoughts**: Today I wanted to create an API from scratch with Ruby, so I did it. I watched a Youtube tutorial to refresh my memory on a few things and it was a success! Tomorrow I am going to look into swagger for documentation since I will be using it on my new internship!
+
+**Link(s) to work**: [My Ruby API](https://github.com/MillyCodes/RubyRailsAPI)
+
+### Day 95: Tuesday, December 4, 2018 
+
+**Today's Progress**: D3 Crash Course!
+
+**Thoughts**: Today *I GOT MY INTERNSHIP OFFER!!!! WOOHOO!* I went to an alumni workshop hosted by my web development bootcamp on how to use d3 to make awesome things. It was a little high level for me but it was a good experience as it was a code along with the instructor. I forgot to commit the code!
+
+**Link(s) to work**: [D3 Workshop](https://github.com/nkabrown/wkshp-december)
+
 ### Day 94: Monday, December 3, 2018 
 
 **Today's Progress**: Elixir!
