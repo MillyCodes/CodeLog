@@ -6,7 +6,7 @@
 
 **Thoughts**: Some thought?
 
-**Link(s) to work**: [Link to work(https://)
+**Link(s) to work**: [Link to work](https://)
 
 ### Day 99: Saturday, December 8, 2018 
 
@@ -14,7 +14,7 @@
 
 **Thoughts**: Some thought?
 
-**Link(s) to work**: [Link to work(https://)
+**Link(s) to work**: [Link to work](https://)
 
 ### Day 98: Friday, December 7, 2018 
 
@@ -22,21 +22,21 @@
 
 **Thoughts**: Some thought?
 
-**Link(s) to work**: [Link to work(https://)
+**Link(s) to work**: [Link to work](https://)
 
 ### Day 97: Thursday, December 6, 2018 
 
-**Today's Progress**: What did you do?
+**Today's Progress**: Teach, Ruby & Swagger
 
-**Thoughts**: Some thought?
+**Thoughts**: The API I wrote yesterday was created in order to build something and document it with swagger. I attempted to explore some more in regards to swagger tutorials and videos but nothing rally fit what I was interesting in understanding. I started several other rails projects in order to implement it but nothing actually turned out quite right.
 
-**Link(s) to work**: [Link to work(https://)
+**Link(s) to work**: [Link to work](https://)
 
 ### Day 96: Wednesday, December 5, 2018 
 
 **Today's Progress**: Tried Swagger for API documentation!
 
-**Thoughts**: The API I wrote yesterday was created in order to build something and document it with swagger. 
+**Thoughts**: Today I took a little tutorial in order to refresh my memory and understanding of how to build an API in Ruby. The issues came up pretty quickly and I had to completely remove rbenv from my machine and all the ruby versions. I then reinstalled the latest ruby but it was a frustration problem that I had to figure out how to correct. I was determined so I was able to complete the API finally.
 
 **Link(s) to work**: [My Ruby API](https://github.com/MillyCodes/RubyRailsAPI)
 
