@@ -18,19 +18,19 @@
 
 ### Day 98: Friday, December 7, 2018 
 
-**Today's Progress**: What did you do?
+**Today's Progress**: Reading Swagger docs
 
-**Thoughts**: Some thought?
+**Thoughts**: Yup!
 
-**Link(s) to work**: [Link to work](https://)
+**Link(s) to work**: [Swagger Objects](https://idratherbewriting.com/learnapidoc/pubapis_openapi_step4_paths_object.html)
 
 ### Day 97: Thursday, December 6, 2018 
 
-**Today's Progress**: Teach, Ruby & Swagger
+**Today's Progress**: Ruby & Swagger Tuts
 
-**Thoughts**: The API I wrote yesterday was created in order to build something and document it with swagger. I attempted to explore some more in regards to swagger tutorials and videos but nothing rally fit what I was interesting in understanding. I started several other rails projects in order to implement it but nothing actually turned out quite right.
+**Thoughts**: The API I wrote yesterday was created in order to build something and document it with swagger. I attempted to explore some more in regards to swagger tutorials and videos but nothing really fit what I was interesting in understanding. I started several other rails projects in order to implement it but nothing actually turned out quite right.
 
-**Link(s) to work**: [Link to work](https://)
+**Link(s) to work**: [Swagger Objects](https://idratherbewriting.com/learnapidoc/pubapis_openapi_step4_paths_object.html)
 
 ### Day 96: Wednesday, December 5, 2018 
 
