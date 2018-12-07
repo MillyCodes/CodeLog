@@ -1,10 +1,42 @@
 # 100 Days Of Code - Log
 
+### Day 100: Sunday, December 9, 2018 
+
+**Today's Progress**: What did you do?
+
+**Thoughts**: Some thought?
+
+**Link(s) to work**: [Link to work(https://)
+
+### Day 99: Saturday, December 8, 2018 
+
+**Today's Progress**: What did you do?
+
+**Thoughts**: Some thought?
+
+**Link(s) to work**: [Link to work(https://)
+
+### Day 98: Friday, December 7, 2018 
+
+**Today's Progress**: What did you do?
+
+**Thoughts**: Some thought?
+
+**Link(s) to work**: [Link to work(https://)
+
+### Day 97: Thursday, December 6, 2018 
+
+**Today's Progress**: What did you do?
+
+**Thoughts**: Some thought?
+
+**Link(s) to work**: [Link to work(https://)
+
 ### Day 96: Wednesday, December 5, 2018 
 
-**Today's Progress**: Created API with Rails!
+**Today's Progress**: Tried Swagger for API documentation!
 
-**Thoughts**: Today I wanted to create an API from scratch with Ruby, so I did it. I watched a Youtube tutorial to refresh my memory on a few things and it was a success! Tomorrow I am going to look into swagger for documentation since I will be using it on my new internship!
+**Thoughts**: The API I wrote yesterday was created in order to build something and document it with swagger. 
 
 **Link(s) to work**: [My Ruby API](https://github.com/MillyCodes/RubyRailsAPI)
 
