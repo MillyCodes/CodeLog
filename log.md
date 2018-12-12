@@ -2,11 +2,11 @@
 
 ### Day 100: Sunday, December 9, 2018 
 
-**Today's Progress**: What did you do?
+**Today's Progress**: EXLIXIR challenges  
 
-**Thoughts**: Some thought?
+**Thoughts**: via exercism.io
 
-**Link(s) to work**: [Link to work](https://)
+**Link(s) to work**: [exercism](https://exercism.io)
 
 ### Day 99: Saturday, December 8, 2018 
 
